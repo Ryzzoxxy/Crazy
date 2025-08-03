@@ -1,13 +1,14 @@
 {
     "color": "#6495ED",
     "prefix": "+",
-    "name": "[+] RyZStore",
+    "name": "[+] RyZ",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "1204145499897339954", 
+        "1399878449635528744", 
         "",
         ""
     ]
 }
+
